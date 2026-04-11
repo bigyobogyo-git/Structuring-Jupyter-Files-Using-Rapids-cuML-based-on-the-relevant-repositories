@@ -1,4 +1,4 @@
-# Structuring-Jupyter-Files-Using-Rapids-cuML-based-the-relevant-repository
+# Structuring-Jupyter-Files-Using-Rapids-cuML-based-on-the-relevant-repository
 A structured file system using jupyter lab for better readability and for educational purposes.
 
 
